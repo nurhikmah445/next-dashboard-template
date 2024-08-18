@@ -1,6 +1,5 @@
 import "@/app/ui/global.css";
-import { lusitana } from '@/app/ui/fonts'; // Import the configured font
-
+import { lusitana } from '@/app/ui/fonts';
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
